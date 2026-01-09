@@ -5,6 +5,6 @@ Il s'agit d'un ensemble de projets que je réalise dans le but de m'améliorer e
 Mon approche pour chaque projet.
 Avant toute chose, je réfléchis sur l'interêt que pourrais avoir le projet, son impact business, à quoi résoudre une telle question pourrait être utile pour une entreprise.
 
-1ère Etape: Compréhension du problème ( j'essaie de reformuler le problème à ma manière, de clarifier exactement la ou les questions auxquelles je dois répondre.)
+1.Compréhension du problème (j'essaie de reformuler le problème à ma manière, de clarifier exactement la ou les questions auxquelles je dois répondre.)
 
-2ème Etape: Je visualise et identifie à quoi pourrait resssembler idéalement la solution, du moins une première itération de la solution.
+2.Reflexion sur l'éventuelle solution (Je visualise et identifie à quoi pourrait resssembler idéalement la solution, du moins une première itération de la solution.)
